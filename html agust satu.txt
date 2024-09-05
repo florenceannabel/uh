@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Form Login</title>
+</head>
+<body>
+<form method="post"action="florence@atisa.sch.id">
+ <input type="text"name="var1"size="30"value="enter your name here">
+ <br><br>
+ <b>are you mentally stable?</b>
+ <input type="checkbox"name="var2">
+ <br><br>
+ <b>do you read orv?</b>
+ <br>
+ <input type="radio"name="var3"value="r1">yes
+ <br>
+ <input type="radio"name="var3"value="r2">no
+ <br>
+ <input type="radio"name="var3"value="r3">what is orv
+ <br><br>
+ <input type="submit"name="var4"value="send">
+ <input type="reset"name="var5"value="clear">
+ <br>
+ <b>where are you from?</b>
+ <br>
+ <select name="varg6"size="1">
+  <option value="bg">Bulgaria
+  <option value="uk">united kingdom
+  <option value="usa"selected>usa
+ </select>
+ <br><br>
+ <b>your comment ehe</b>
+ <br>
+ <textarea name="var?"COLS="30"rows="6">
+ </textarea>

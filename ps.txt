@@ -1,0 +1,21 @@
+tabel kalender
+
+nama :
+alamat :
+
+jenis alamat :
+-tanggerang
+-jakarta
+-serang
+-kampung melayu
+jenis karakter
+- riang
+- murung
+- sedih 
+- cuek
+clear
+
+buat link biodata
+hobi
+foto yg motivasi kita
+bebas

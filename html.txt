@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    width: 100%; /* Lebar tabel 100% dari lebar layar */
+    border-collapse: collapse; /* Menggabungkan border sel */
+  }
+  th, td {
+    border: 1px solid black; /* Border setiap sel */
+    padding: 8px; /* Padding di dalam sel */
+    text-align: left; /* Teks rata kiri di dalam sel */
+  }
+
+    .center{
+    display: block;
+    margin: 0 auto;}
+</style>
+<p> PERKEMBANGAN TEKNOLOGI ERA GLOBALISASI</p>
+<p>Globalisasi berasal dari <b><u>kata "globe"</b></u>(peta dunia yang berbentuk bola).Dari lata ini lahirlah istilah "global" yang berati (meliputi seluruh dunia). jadi globalisasi adalah suatu proses tatanan sosial yang mendunia.<b>seiring datangnya era globalisasi</b>saat ini, perkembangan teknologi juga berkembang sangat pesat. perkembangan teknologi di era globalisasi ini juga mempengaruhi kehidupan sosial dalam bidang ideologi,polik,ekonomi,sosial budaya, dan lain-lain.</p>
+<p>Konten ini telah tayang di Kompasiana.com dengan judul "Teks eksplanasi tentang perkembangan Teknologi Era Globalisasi",</p>
+<p>Daftar isi</p>
+<ol>
+ <li>Peran Teknologi Modern</li>
+ <ol type="a">
+ <li>ruang lingkup perkembangan teknologi</li>
+</ol>
+ <li>Tantangan Dalam Menghadapi Era Teknologi</li>
+ <ol type="i">
+ <li>kesimpulan</li>
+</ol>
+ </ol>
+<p>Daftar pusaka :</p>
+<ol>
+<li>Teks eksplanasi tentang Perkembangan Teknologi Era ...</li>
+<ol type="circle"> 
+<li>Contoh Teks Deskripsi 4 Paragraf: inovasi Teknologi di Era ...</li>
+<ol type="circle">
+<li>Pengertian dan Perkembangan Teknologi - kompas.com</li>
+<ol type="circle">
+</ol>
+</ol>
+</ol>
+
+<p>tabel</p>
+<table>
+  <tr>
+    <th>Berita</th>
+    <th>Sumber</th>
+    <th>tanggal</th>
+  </tr>
+  <tr>
+    <td>Teknologi Gadget</td>
+    <td>deckarenas</td>
+    <td>24 juli 2024</td>
+  </tr>
+  <tr>
+    <td>Berita Teknologi IT</td>
+    <td>tekno.kompas.com</td>
+    <td>13 juni 2002</td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td rowspan="2">Keterangan</td>
+    <td>Berita</td>
+    <td>mamikos</td>
+  </tr>
+  <tr>
+    <td><b>karya</b></td>
+    <td>Teks diskusi tentang Teknologi</td>
+  </tr>
+</table>
+<img width="250"height="200"src="C:\Users\LAB 5 ATISA 8\Documents\Florence 11-2\images (9).jpg"class="center">
